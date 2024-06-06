@@ -1,6 +1,6 @@
 #!/bin/sh
 
-REMOTE='http://localhost:8000'
+REMOTE='https://ftp.lysator.liu.se/gentoo/distfiles/'
 ENEWALD_LOCATION="/etc/enewald"
 
 setup() {
